@@ -8,7 +8,7 @@ Especializado em Front-End, Inteligência Artificial, automações com n8n, inte
 
 Atualmente desenvolvo soluções que conectam tráfego, landing pages, CRM, IA e atendimento automatizado, criando funis completos de vendas que acompanham o cliente desde a captação até o fechamento do pagamento.
 
-🛠️### Tecnologias
+### 🛠️Tecnologias
 
 * JavaScript
 * Python
@@ -19,7 +19,7 @@ Atualmente desenvolvo soluções que conectam tráfego, landing pages, CRM, IA e
 * Inteligência Artificial
 * CRM & Dashboards
 
-📊### Conhecimentos Complementares
+### 📊Conhecimentos Complementares
 
 * Automação de Processos
 * Integração de Sistemas
